@@ -1,7 +1,7 @@
 [![First Successful Landing video](https://img.youtube.com/vi/Gzraq9Sko7s/maxresdefault.jpg)](https://www.youtube.com/watch?v=Gzraq9Sko7s)
 
 # KSP2 SSTO Scripts
-[KontrolSystem2](https://github.com/untoldwind/KontrolSystem2) scripts to work with SSTO's
+[KontrolSystem2](https://github.com/untoldwind/KontrolSystem2) scripts to work with SSTO's: automated liftoff and ascent to low orbit, deorbit, atmospheric reentry, precision landing on a designated runway, and more.
 
 [![APACHE 2.0](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg?longCache=true&style=for-the-badge)](LICENSE)
 [![KSP2][badge-ksp2]](https://www.kerbalspaceprogram.com/)
